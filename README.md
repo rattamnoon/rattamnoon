@@ -42,11 +42,11 @@
         - [ ] Communicable  
 
 - ***Current status*** 
-    - Live in ```Thailand Bangkok Dindaeng```
-    - Nationality ```Thailand```
-    - Highest education ```Degree```
-    - Total years of experience ```Less than one year```
-    - Employment period ```Apr 2020 - Present```
+    - [x] Live in ```Thailand Bangkok Dindaeng```
+    - [x] Nationality ```Thailand```
+    - [x] Highest education ```Degree```
+    - [x] Total years of experience ```Less than one year```
+    - [x] Employment period ```Apr 2020 - Present```
 
 - ***Language and Freamwork***
     - **Language**
