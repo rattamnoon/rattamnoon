@@ -13,8 +13,8 @@
         - ___17 Nov 1996___
     - Email 
         - ___rattamnoon.kir@gmail.com___
-
-### > Social, [Facebook](https://web.facebook.com/RATTAMNOON)。
+    - > Social
+        - [Facebook](https://web.facebook.com/RATTAMNOON)。
 
 - ***Education*** 👨‍🎓
     - Institute __Naresuan University.__
