@@ -6,7 +6,7 @@
     - Nickname  ___UN___
     - Age __23__ year old
     - Contact number (optional)
-        - __Thailand +66 95 894 0136__
+        - ___Thailand +66 95 894 0136___
     - Gender (optional) 
         - ___Male___
     - Date of birth (optional)
