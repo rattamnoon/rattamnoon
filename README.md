@@ -1,20 +1,20 @@
 # Hi there 👋👋👋
 
-## - Personal details
+- Personal details
     - First name __RATTAMNOON__
     - Last name __KIRATIPISUT__
     - Nickname  __UN(อั๋น)__
     - Age __23__ year old
-## - Education
+- Education
     - Institute __Naresuan University.__
     - Education level __Degree__
     - Major __Science Program in Physics.__
     - Graduation Year __2018__
-## - Work experience
+- Work experience
     - I work for the ___WORLD MONEY LTD.___
     - Job industry ___Financial Services___
     - Position __Web application developer, Frontend__ 
-## - Languages 
+- Languages 
     - Thai
     - English 
         - [ ] Excellent   
