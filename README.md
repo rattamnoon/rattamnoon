@@ -18,16 +18,16 @@
 
 - ***Education*** 👨‍🎓
     - [x] Institute ___Naresuan University.___
-    - [x] Education level ___Degree___
+    - [x] Education level ___Degree.___
     - [x] Major ___Science Program in Physics.___
-    - [x] Graduation Year ___2018___
+    - [x] Graduation Year ___2018.___
 
 - ***Work experience*** 👨‍🏭
     - [x] Company ___WORLD MONEY LTD.___
     - [x] Position ___Frontend developer (Web application)___
     - [x] Employment period ___Apr 2020 - Present___
-    - [x] Job function ___Sofyware Development___
-    - [x] Job industry ___Financial Services___
+    - [x] Job function ___Sofyware Development.___
+    - [x] Job industry ___Financial Services.___
     - [x] Roles and responsibilities (optional)
         - ***UX / UI design***
         - ***REST API*** send GET, POST, PUT, DELETE
