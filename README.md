@@ -14,7 +14,10 @@
 - Languages 
     - Thai
     - English ``` fair ```
-        - [x] fair
+        - [ ] Excellent   
+        - [ ] Good        
+        - [x] Fair
+        - [ ] Communicable  
 
 ### Employment period
 - __Apr 2020 - Present__
