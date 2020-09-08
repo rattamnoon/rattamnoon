@@ -2,6 +2,11 @@
 - I' m __Rattamnoon Kiratipisut__
 - Nickname  __un__
 - Age __23__ year old
+- `Education`
+    - Institute __Naresuan University.__
+    - Education level __Degree__
+    - Major __Science Program in Physics.__
+    - Graduation Year __2018__
 - `Work experience`
     - I work for the ___WORLD MONEY LTD.___
     - Job industry ___Financial Services___
