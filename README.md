@@ -40,16 +40,21 @@
     - Nationality ```Thailand```
     - Highest education ```Degree```
     - Total years of experience ```Less than one year```
+    - Employment period ```Apr 2020 - Present```
 
-### Employment period
-- __Apr 2020 - Present__
 
-### Language and Freamwork
-```
-- Language such as Javascript, python, HTML, CSS
-- Freamwork such as Djago, ReactJS, Node js, Bootstrap  
-``` 
-
+- ***Language and Freamwork***
+    - **Language**
+        - Javascript
+        - python 
+        - HTML
+        - CSS
+    - **Freamwork**
+        - Djago
+        - ReactJS
+        - Node js
+        - Bootstrap  
+![](https://pandao.github.io/editor.md/examples/images/4.jpg)
 ### Project
 ```
 I am working on a project about finance
