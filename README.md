@@ -1,7 +1,10 @@
-# Hi there 
-- I' m __Rattamnoon Kiratipisut__
-- Nickname  __un__
-- Age __23__ year old
+# Hi there 👋👋👋
+
+- Personal details
+    - First name __RATTAMNOON__
+    - Last name __KIRATIPISUT__
+    - Nickname  __UN(อั๋น)__
+    - Age __23__ year old
 - Education
     - Institute __Naresuan University.__
     - Education level __Degree__
@@ -13,7 +16,7 @@
     - Position __Web application developer, Frontend__ 
 - Languages 
     - Thai
-    - English ``` fair ```
+    - English 
         - [ ] Excellent   
         - [ ] Good        
         - [x] Fair
