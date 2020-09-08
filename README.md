@@ -5,6 +5,12 @@
     - Last name __KIRATIPISUT__
     - Nickname  __UN(อั๋น)__
     - Age __23__ year old
+    - Contact number (optional)
+        - __Thailand +66 95 894 0136__
+    - Gender (optional) 
+        - ___Male___
+    - Date of birth (optional)
+        - ___17 Nov 1996___
 - Education
     - Institute __Naresuan University.__
     - Education level __Degree__
