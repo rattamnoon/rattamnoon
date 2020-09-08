@@ -11,18 +11,18 @@
         - ___Male___
     - Date of birth (optional)
         - ___17 Nov 1996___
-- Education
+- Education 👨‍🎓
     - Institute __Naresuan University.__
     - Education level __Degree__
     - Major __Science Program in Physics.__
     - Graduation Year __2018__
-- Work experience
+- Work experience 👨‍🏭
     - I work for the ___WORLD MONEY LTD.___
     - Job industry ___Financial Services___
     - Position __Web application developer, Frontend__ 
 - Languages 
-    - Thai
-    - English 
+    - Thai 🇹🇭
+    - English 🏴󠁧󠁢󠁥󠁮󠁧󠁿 
         - [ ] Excellent   
         - [ ] Good        
         - [x] Fair
