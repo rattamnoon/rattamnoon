@@ -23,9 +23,15 @@
     - Graduation Year ___2018___
 
 - ***Work experience*** 👨‍🏭
-    - I work for the ___WORLD MONEY LTD.___
+    - Company ___WORLD MONEY LTD.___
+    - Position ___Frontend developer (Web application)___
+    - Employment period ___Apr 2020 - Present___
+    - Job function ___Sofyware Development___
     - Job industry ___Financial Services___
-    - Position ___Web application developer, Frontend___
+    - Roles and responsibilities (optional)
+        - ***UX / UI design***
+        - ***REST API*** send GET, POST, PUT, DELETE
+        - ***Studying Blockchain*** (Starting to study the ***Smart contract***)
 
 - ***Languages***
     - Thai 
@@ -42,11 +48,10 @@
     - Total years of experience ```Less than one year```
     - Employment period ```Apr 2020 - Present```
 
-
 - ***Language and Freamwork***
     - **Language**
-        - Javascript
-        - python 
+        - JavaScript
+        - Python 
         - HTML
         - CSS
     - **Freamwork**
