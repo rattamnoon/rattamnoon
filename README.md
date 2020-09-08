@@ -13,7 +13,8 @@
     - Position __Web application developer, Frontend__ 
 - Languages 
     - Thai
-    - English ``` พอใช้ ```
+    - English ``` fair ```
+        - [x] fair
 
 ### Employment period
 - __Apr 2020 - Present__
