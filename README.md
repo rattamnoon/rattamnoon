@@ -17,10 +17,10 @@
         - [Facebook](https://web.facebook.com/RATTAMNOON)
 
 - ***Education*** 👨‍🎓
-    - Institute ___Naresuan University.___
-    - Education level ___Degree___
-    - Major ___Science Program in Physics.___
-    - Graduation Year ___2018___
+    - [x] Institute ___Naresuan University.___
+    - [x] Education level ___Degree___
+    - [x] Major ___Science Program in Physics.___
+    - [x] Graduation Year ___2018___
 
 - ***Work experience*** 👨‍🏭
     - Company ___WORLD MONEY LTD.___
