@@ -54,8 +54,7 @@
         - ReactJS
         - Node js
         - Bootstrap  
-![](https://pandao.github.io/editor.md/examples/images/4.jpg)
-### Project
-```
-I am working on a project about finance
-``` 
+
+- ***Project***
+    - Project *WORLD MONEY* about *finance* and *blockchain to smart contract*
+
