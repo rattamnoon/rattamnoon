@@ -3,10 +3,9 @@
 - Nickname  __un__
 - Age __23__ year old
 - I work for the ___WORLD MONEY LTD.___
- ```
-- Job industry Financial Services
-- Position __Web application developer, Frontend__ 
- ```
+    - Job industry Financial Services
+    - Position __Web application developer, Frontend__ 
+
 
 ### Employment period
 - __Apr 2020 - Present__
