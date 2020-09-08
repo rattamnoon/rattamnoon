@@ -53,12 +53,12 @@
         - JavaScript
         - Python 
         - HTML
-        - CSS
     - **Freamwork**
         - Djago
         - ReactJS
         - Node js
         - Bootstrap  
+        - CSS
 
 - ## ***Project***
     - Project ***WORLD MONEY*** about ***finance*** and ***blockchain to smart contract***
