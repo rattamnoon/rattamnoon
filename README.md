@@ -1,10 +1,17 @@
 # Hi there 
-- I' m ___Rattamnoon Kiratipisut___
-- Nickname  ___un___
+- I' m __Rattamnoon Kiratipisut__
+- Nickname  __un__
 - Age __23__ year old
 - I work for the ___WORLD MONEY LTD.___
+ ```
+- Job industry Financial Services
+- Position __Web application developer, Frontend__ 
+ ```
 
-## I'm a Frontend, Web application developer
+### Employment period
+- __Apr 2020 - Present__
+
+### I'm a Frontend, Web application developer
 ```
 - ภาษาที่ใช้ Javascript, python, HTML, CSS
 - Freamwork such as Djago, ReactJS, Node js, Bootstrap  
