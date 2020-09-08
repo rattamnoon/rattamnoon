@@ -1,8 +1,7 @@
 # Hi there 
-I' m ___Rattamnoon Kiratipisut___
-Nickname  ___un___
-
-> I work for the WORLD MONEY LTD
+- I' m ___Rattamnoon Kiratipisut___
+- Nickname  ___un___
+- I work for the ___WORLD MONEY LTD.___
 
 ## I'm a Frontend, Web application developer
 ```
