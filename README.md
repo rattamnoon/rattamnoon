@@ -27,9 +27,9 @@
     - :ballot_box_with_check: Job function ___Sofyware Development.___
     - :ballot_box_with_check: Job industry ___Financial Services.___
     - :ballot_box_with_check: Roles and responsibilities (optional)
-        - ***UX / UI design***
-        - ***RESTFUL API*** send GET, POST, PUT, DELETE
-        - ***Studying Blockchain*** (Starting to study the ***Smart contract***)
+        - :art: ***UX / UI design***
+        - :postbox: ***RESTFUL API*** send GET, POST, PUT, DELETE
+        - :black_medium_square: ***Studying Blockchain*** (Starting to study the ***Smart contract***)
 
 - ***Languages***
     - Thai 
