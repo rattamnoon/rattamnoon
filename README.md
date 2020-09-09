@@ -6,15 +6,15 @@
     - Nickname  ___UN___
     - Age __23__ year old
     - Contact number (optional)
-        :iphone: ___Thailand +66 95 894 0136___
+        - :iphone: ___Thailand +66 95 894 0136___
     - Gender (optional) 
-        :man: ___Male___
+        - :man: ___Male___
     - Date of birth (optional)
-        :date: ___17 Nov 1996___
+        - :date: ___17 Nov 1996___
     - Email 
-        :mailbox: ___rattamnoon.kir@gmail.com___
+        - :mailbox: ___rattamnoon.kir@gmail.com___
     - Social
-        [facebook](https://web.facebook.com/RATTAMNOON)
+        - [facebook](https://web.facebook.com/RATTAMNOON)
 
 - ***Education*** 👨‍🎓
     - [x] Institute ___Naresuan University.___
