@@ -15,8 +15,6 @@
         - ___rattamnoon.kir@gmail.com___
     - Social
         - [facebook](https://web.facebook.com/RATTAMNOON)
-    - Project
-      - This site was built using [GitHub Pages](https://pages.github.com/).
 
 - ***Education*** 👨‍🎓
     - [x] Institute ___Naresuan University.___
