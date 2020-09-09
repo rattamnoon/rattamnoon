@@ -29,7 +29,7 @@
     - :ballot_box_with_check: Roles and responsibilities (optional)
         - :art: ***UX / UI design***
         - :postbox: ***RESTFUL API*** send GET, POST, PUT, DELETE
-        - :black_medium_square: ***Studying Blockchain*** (Starting to study the ***Smart contract***)
+        - :black_large_square: ***Studying Blockchain*** (Starting to study the ***Smart contract***)
 
 - ***Languages***
     - Thai 
