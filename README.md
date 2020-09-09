@@ -14,21 +14,21 @@
     - Email 
         - :mailbox: ___rattamnoon.kir@gmail.com___
     - Social
-        - [facebook](https://web.facebook.com/RATTAMNOON)
+        - :link: [facebook](https://web.facebook.com/RATTAMNOON)
 
 - ***Education*** 👨‍🎓
-    - [x] Institute ___Naresuan University.___
-    - [x] Education level ___Degree.___
-    - [x] Major ___Science Program in Physics.___
-    - [x] Graduation Year ___2018.___
+    - :ballot_box_with_check: Institute ___Naresuan University.___
+    - :ballot_box_with_check: Education level ___Degree.___
+    - :ballot_box_with_check: Major ___Science Program in Physics.___
+    - :ballot_box_with_check: Graduation Year ___2018.___
 
 - ***Work experience*** 👨‍🏭
-    - [x] Company ___WORLD MONEY LTD.___
-    - [x] Position ___Frontend developer (Web application)___
-    - [x] Employment period ___Apr 2020 - Present___
-    - [x] Job function ___Sofyware Development.___
-    - [x] Job industry ___Financial Services.___
-    - [x] Roles and responsibilities (optional)
+    - :ballot_box_with_check: Company ___WORLD MONEY LTD.___
+    - :ballot_box_with_check: Position ___Frontend developer (Web application)___
+    - :ballot_box_with_check: Employment period ___Apr 2020 - Present___
+    - :ballot_box_with_check: Job function ___Sofyware Development.___
+    - :ballot_box_with_check: Job industry ___Financial Services.___
+    - :ballot_box_with_check: Roles and responsibilities (optional)
         - ***UX / UI design***
         - ***RESTFUL API*** send GET, POST, PUT, DELETE
         - ***Studying Blockchain*** (Starting to study the ***Smart contract***)
@@ -36,17 +36,17 @@
 - ***Languages***
     - Thai 
     - English 
-        - [ ] Excellent   
-        - [ ] Good        
-        - [x] Fair
-        - [ ] Communicable  
+        - :white_large_square: Excellent   
+        - :white_large_square: Good        
+        - :ballot_box_with_check: Fair
+        - :white_large_square: Communicable  
 
 - ***Current status*** 
-    - [x] Live in ```Thailand Bangkok Dindaeng```
-    - [x] Nationality ```Thailand```
-    - [x] Highest education ```Degree```
-    - [x] Total years of experience ```Less than one year```
-    - [x] Employment period ```Apr 2020 - Present```
+    - :ballot_box_with_check: Live in ```Thailand Bangkok Dindaeng```
+    - :ballot_box_with_check: Nationality ```Thailand```
+    - :ballot_box_with_check: Highest education ```Degree```
+    - :ballot_box_with_check: Total years of experience ```Less than one year```
+    - :ballot_box_with_check: Employment period ```Apr 2020 - Present```
 
 - ***Language and Freamwork***
     - **Language**
