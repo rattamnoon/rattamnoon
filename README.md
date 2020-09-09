@@ -61,6 +61,13 @@
 
 - ## ***Project***
     - Project ***WORLD MONEY*** about ***finance*** and ***blockchain to smart contract***
+    ```
+       There are 4 systems to develop.
+          > systems frontend ReactJs, CSS, Bootstrap 
+          > systems backend Node js, Mysql, express
+          > systems backoffice (Collect data)
+          > systems credit scoring Python (Data analysis)
+    ```
 
 ####ReactJS RESTFUL API 
 
