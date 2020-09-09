@@ -57,8 +57,7 @@ ___My Profile___ 👋👋👋
         - Bootstrap  
         - CSS
 
-***Project***
--------------------------------------------------------------------------------------------
+- ***Project***
     - :lock::lock::lock: Project ***WORLD MONEY*** about ***finance*** and ***blockchain to smart contract*** :lock::lock::lock:
     ```
        There are 4 systems to develop.
