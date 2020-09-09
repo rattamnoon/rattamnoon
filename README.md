@@ -42,11 +42,11 @@
         - [ ] Communicable  
 
 - ***Current status*** 
-    - [x] Live in ```Thailand Bangkok Dindaeng```
-    - [x] Nationality ```Thailand```
-    - [x] Highest education ```Degree```
-    - [x] Total years of experience ```Less than one year```
-    - [x] Employment period ```Apr 2020 - Present```
+    - :white_check_mark: Live in ```Thailand Bangkok Dindaeng```
+    - :white_check_mark: Nationality ```Thailand```
+    - :white_check_mark: Highest education ```Degree```
+    - :white_check_mark: Total years of experience ```Less than one year```
+    - :white_check_mark: Employment period ```Apr 2020 - Present```
 
 - ***Language and Freamwork***
     - **Language**
