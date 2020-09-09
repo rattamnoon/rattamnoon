@@ -38,15 +38,14 @@
     - English 
         - :white_large_square: Excellent   
         - :white_large_square: Good        
-        - :ballot_box_with_check: Fair
+        - :white_check_mark: Fair
         - :white_large_square: Communicable  
 
 - ***Current status*** 
-    - :ballot_box_with_check: Live in ```Thailand Bangkok Dindaeng```
-    - :ballot_box_with_check: Nationality ```Thailand```
-    - :ballot_box_with_check: Highest education ```Degree```
-    - :ballot_box_with_check: Total years of experience ```Less than one year```
-    - :ballot_box_with_check: Employment period ```Apr 2020 - Present```
+    - :round_pushpin: Live in ```Thailand Bangkok Dindaeng```
+    - :black_circle: Nationality ```Thailand```
+    - :black_circle: Total years of experience ```Less than one year```
+    - :black_circle: Employment period ```Apr 2020 - Present```
 
 - ***Language and Freamwork***
     - **Language**
