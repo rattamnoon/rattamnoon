@@ -61,10 +61,10 @@ ___My Profile___ 👋👋👋
     - :lock::lock::lock: Project ***WORLD MONEY*** about ***finance*** and ***blockchain to smart contract*** :lock::lock::lock:
     ```
        There are 4 systems to develop.
-          > systems frontend ReactJs, CSS, Bootstrap 
-          > systems backend Node js, Mysql, express
-          > systems backoffice (Collect data)
-          > systems credit scoring Python (Data analysis)
+          > This systems frontend has ReactJs, CSS, Bootstrap 
+          > This systems backend has Node js, Mysql, Express
+          > This systems backoffice has Javascript (Collect data)
+          > This systems credit scoring has Python (Data analysis)
     ```
 
 ####ReactJS RESTFUL API 
