@@ -30,7 +30,6 @@
         - :art: ***UX / UI design***
         - :postbox: ***RESTFUL API*** send GET, POST, PUT, DELETE
         - :package: ***Studying Blockchain*** (Starting to study the ***Smart contract***)
-There is a literal ``backtick (`)`` here.
 
 - ***Languages***
     - Thai 
