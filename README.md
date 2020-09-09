@@ -60,7 +60,7 @@
         - CSS
 
 - ## ***Project***
-    - Project ***WORLD MONEY*** about ***finance*** and ***blockchain to smart contract***
+    - :lock::lock::lock: Project ***WORLD MONEY*** about ***finance*** and ***blockchain to smart contract*** :lock::lock::lock:
     ```
        There are 4 systems to develop.
           > systems frontend ReactJs, CSS, Bootstrap 
