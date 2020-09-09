@@ -17,10 +17,10 @@
         - :link: [facebook](https://web.facebook.com/RATTAMNOON)
 
 - ***Education*** 👨‍🎓
-    - :ballot_box_with_check: Institute ___Naresuan University.___
-    - :ballot_box_with_check: Education level ___Degree.___
-    - :ballot_box_with_check: Major ___Science Program in Physics.___
-    - :ballot_box_with_check: Graduation Year ___2018.___
+    - :school: Institute ___Naresuan University.___
+    - :mortar_board: Education level ___Degree.___
+    - :white_check_mark: Major ___Science Program in Physics.___
+    - :white_check_mark: Graduation Year ___2018.___
 
 - ***Work experience*** 👨‍🏭
     - :ballot_box_with_check: Company ___WORLD MONEY LTD.___
