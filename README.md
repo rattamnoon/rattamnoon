@@ -6,7 +6,7 @@
     - Nickname  ___UN___
     - Age __23__ year old
     - Contact number (optional)
-        - :iphone: ___Thailand +66 95 894 0136___
+        - :telephone_receiver: ___Thailand +66 95 894 0136___
     - Gender (optional) 
         - :man: ___Male___
     - Date of birth (optional)
@@ -43,9 +43,9 @@
 
 - ***Current status*** 
     - :round_pushpin: Live in ```Thailand Bangkok Dindaeng```
-    - :black_circle: Nationality ```Thailand```
-    - :black_circle: Total years of experience ```Less than one year```
-    - :black_circle: Employment period ```Apr 2020 - Present```
+    - :heavy_check_mark: Nationality ```Thailand```
+    - :heavy_check_mark: Total years of experience ```Less than one year```
+    - :heavy_check_mark: Employment period ```Apr 2020 - Present```
 
 - ***Language and Freamwork***
     - **Language**
