@@ -6,13 +6,13 @@
     - Nickname  ___UN___
     - Age __23__ year old
     - Contact number (optional)
-        - ___Thailand +66 95 894 0136___
+        - :telephone: ___Thailand +66 95 894 0136___
     - Gender (optional) 
-        - ___Male___
+        - :man: ___Male___
     - Date of birth (optional)
-        - ___17 Nov 1996___
+        - :date: ___17 Nov 1996___
     - Email 
-        - ___rattamnoon.kir@gmail.com___
+        - :email: ___rattamnoon.kir@gmail.com___
     - Social
         - [facebook](https://web.facebook.com/RATTAMNOON)
 
@@ -42,11 +42,11 @@
         - [ ] Communicable  
 
 - ***Current status*** 
-    - :white_check_mark: Live in ```Thailand Bangkok Dindaeng```
-    - :white_check_mark: Nationality ```Thailand```
-    - :white_check_mark: Highest education ```Degree```
-    - :white_check_mark: Total years of experience ```Less than one year```
-    - :white_check_mark: Employment period ```Apr 2020 - Present```
+    - [x] Live in ```Thailand Bangkok Dindaeng```
+    - [x] Nationality ```Thailand```
+    - [x] Highest education ```Degree```
+    - [x] Total years of experience ```Less than one year```
+    - [x] Employment period ```Apr 2020 - Present```
 
 - ***Language and Freamwork***
     - **Language**
