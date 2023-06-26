@@ -5,7 +5,7 @@
 <img  src="https://github-readme-streak-stats.herokuapp.com/?user=rattamnoon&theme=midnight-purple" width="48%" >
 
 ## Top Languages
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rattamnoon&layout=compact)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rattamnoon&size_weight=0.5&count_weight=0.5)
 
 <!--
 **pthongtaem/pthongtaem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
