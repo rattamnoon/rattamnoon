@@ -1,4 +1,3 @@
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rattamnoon&show_icons=true&theme=radical)
 ___My Profile___ 👋👋👋
 ---------------------------------------------------------------------------------------------
 - ***Personal details***
@@ -67,3 +66,5 @@ ___My Profile___ 👋👋👋
         - Docker
         - EKS (AWS)
         - EC2 (AWS)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rattamnoon&show_icons=true&theme=radical)
