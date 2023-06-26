@@ -1,7 +1,9 @@
 ### Hi there 👋 Welcome to my Profile!!!
 
 ## My GitHub Stats
-  <img  src="https://github-readme-streak-stats.herokuapp.com/?user=rattamnoon&theme=radical" width="100%" >
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=rattamnoon&theme=midnight-purple&hide_border=true&mode=weekly)](https://git.io/streak-stats)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
 
 ## Top Languages
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rattamnoon&layout=compact)
