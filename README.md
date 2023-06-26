@@ -1,7 +1,7 @@
 ### Hi there 👋 Welcome to my Profile!!!
 
 ## My GitHub Stats
- <img src="https://github-readme-stats.vercel.app/api?username=rattamnoon&show_icons=true&theme=midnight-purpleÏ" alt="kritikapattalam" width="45%" align="right"/>
+ <img src="https://github-readme-stats.vercel.app/api?username=rattamnoon&show_icons=true&theme=midnight-purple" alt="kritikapattalam" width="45%" align="right"/>
 <img  src="https://github-readme-streak-stats.herokuapp.com/?user=rattamnoon&theme=radical" width="48%" >
 
 ## Top Languages
