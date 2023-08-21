@@ -7,8 +7,6 @@
 ## Top Languages
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rattamnoon&size_weight=0.5&count_weight=0.5)
   
-## Top Commit
-  [![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ffflabs)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **pthongtaem/pthongtaem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
