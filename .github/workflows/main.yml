@@ -1,17 +1,42 @@
-name: Waka Readme
+# name: Waka Readme
+
+# on:
+#   # for manual workflow trigger
+#   workflow_dispatch:
+#   schedule:
+#     # runs at 12 AM UTC (5:30 AM IST)
+#     - cron: "0 0 * * *"
+
+# jobs:
+#   update-readme:
+#     name: WakaReadme DevMetrics
+#     runs-on: ubuntu-latest
+#     steps:
+#       - uses: rattamnoon/rattamnoon@master
+#         with:
+#           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+
+name: WakaReadme CI
 
 on:
-  # for manual workflow trigger
+  push:
+    branches: [master]
+  pull_request:
+    branches: [master]
   workflow_dispatch:
-  schedule:
-    # runs at 12 AM UTC (5:30 AM IST)
-    - cron: "0 0 * * *"
 
 jobs:
-  update-readme:
-    name: WakaReadme DevMetrics
+  UnitTests:
     runs-on: ubuntu-latest
     steps:
-      - uses: rattamnoon/rattamnoon@master
-        with:
-          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+      - uses: actions/checkout@v3
+      - name: Build docker image
+        run: |
+          # Clear existing cache
+          docker builder prune --force
+
+          # Build and run container (executes unit tests)
+          docker compose -p waka-readme -f ./compose.yml up --no-color --pull always --build --force-recreate
+
+          # Cleanup
+          docker compose -p waka-readme -f ./compose.yml down --rmi all
