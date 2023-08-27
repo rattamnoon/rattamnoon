@@ -29,7 +29,7 @@ jobs:
   UnitTests:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v3
+      - uses: rattamnoon/rattamnoon@master
       - name: Build docker image
         run: |
           # Clear existing cache
