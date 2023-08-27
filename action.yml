@@ -5,7 +5,7 @@ description: "WakaTime coding activity graph in your profile readme"
 inputs:
   GH_TOKEN:
     description: "GitHub access token with Repo scope"
-    default: ${{ github.token }}
+    default: ${{ github.GH_TOKEN }}
     required: true
   WAKATIME_API_KEY:
     description: "Your Wakatime/Wakapi/Hakatime API Key"
