@@ -1,13 +1,16 @@
 ### Hi there 👋 Welcome to my Profile!!!
 
+[![](https://raw.githubusercontent.com/rattamnoon/GitHub-Profile-Summary-Cards/main/profile-summary-card-output/dracula/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+
 ## My GitHub Stats
 
- <img src="https://github-readme-stats.vercel.app/api?username=rattamnoon&show_icons=true&theme=midnight-purple" alt="kritikapattalam" width="45%" align="right"/>
-<img  src="https://github-readme-streak-stats.herokuapp.com/?user=rattamnoon&theme=midnight-purple" width="48%" >
+[![](https://raw.githubusercontent.com/rattamnoon/GitHub-Profile-Summary-Cards/main/profile-summary-card-output/dracula/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/rattamnoon/GitHub-Profile-Summary-Cards/main/profile-summary-card-output/dracula/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
 ## Top Languages
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rattamnoon&size_weight=0.5&count_weight=0.5)
+[![](https://raw.githubusercontent.com/rattamnoon/GitHub-Profile-Summary-Cards/main/profile-summary-card-output/dracula/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/rattamnoon/GitHub-Profile-Summary-Cards/main/profile-summary-card-output/dracula/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
@@ -29,6 +32,3 @@ Here are some ideas to get you started:
 
 
 
-[![](https://raw.githubusercontent.com/rattamnoon/GitHub-Profile-Summary-Cards/main/profile-summary-card-output/dracula/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/rattamnoon/GitHub-Profile-Summary-Cards/main/profile-summary-card-output/dracula/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/rattamnoon/GitHub-Profile-Summary-Cards/main/profile-summary-card-output/dracula/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/rattamnoon/GitHub-Profile-Summary-Cards/main/profile-summary-card-output/dracula/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/rattamnoon/GitHub-Profile-Summary-Cards/main/profile-summary-card-output/dracula/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
