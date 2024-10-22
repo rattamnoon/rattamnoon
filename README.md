@@ -18,4 +18,4 @@
 
 ## Contrib
 
-![](./profile-3d-contrib/profile-3d-contrib/profile-night-view.svg)
+![](./profile-3d-contrib/profile-night-view.svg)
