@@ -11,19 +11,6 @@ I am a passionate developer with a keen interest in software development and ope
 - **Databases:** MySQL, MongoDB, PostgreSQL
 - **Tools & Technologies:** Git, Docker, Kubernetes, AWS
 
-## Projects
-Here are some of the projects I've been working on:
-
-### Project 1: Awesome Project
-- **Description:** A brief description of what the project does.
-- **Technologies Used:** List of technologies used in the project.
-- **Repository:** [Link to the repository](https://github.com/rattamnoon/awesome-project)
-
-### Project 2: Another Cool Project
-- **Description:** A brief description of what the project does.
-- **Technologies Used:** List of technologies used in the project.
-- **Repository:** [Link to the repository](https://github.com/rattamnoon/another-cool-project)
-
 ## GitHub Stats
 ![rattamnoon's GitHub stats](https://github-readme-stats.vercel.app/api?username=rattamnoon&show_icons=true&theme=radical)
 [![rattamnoon's GitHub streak](https://github-readme-streak-stats-umber-two.vercel.app?user=rattamnoon&theme=dark)](https://git.io/streak-stats)
