@@ -6,9 +6,9 @@ I am a passionate developer with a keen interest in software development and ope
 ## Skills
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rattamnoon&layout=compact&theme=radical)
 
-- **Programming Languages:** JavaScript, Python, Java, C++
-- **Web Development:** HTML, CSS, React, Node.js
-- **Databases:** MySQL, MongoDB, PostgreSQL
+- **Programming Languages:** JavaScript, TypeScript
+- **Web Development:** HTML, CSS, React, Next.js, Node.js
+- **Databases:** MySQL, MSSQL, PostgreSQL
 - **Tools & Technologies:** Git, Docker, Kubernetes, AWS
 
 ## GitHub Stats
