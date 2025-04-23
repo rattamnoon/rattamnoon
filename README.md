@@ -1,8 +1,5 @@
 # Hi there, I'm rattamnoon 👋
 
-## About Me
-I am a passionate developer with a keen interest in software development and open-source contributions. I enjoy learning new technologies and applying them to solve real-world problems.
-
 ## Skills
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rattamnoon&layout=compact&theme=radical)
 
