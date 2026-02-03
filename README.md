@@ -61,8 +61,6 @@ I'm a passionate Full-Stack Developer with expertise in modern web technologies 
 
 ---
 
----
-
 <div align="center">
 
 ### 🔗 Let's Connect
