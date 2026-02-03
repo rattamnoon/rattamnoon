@@ -61,10 +61,24 @@ I'm a passionate Full-Stack Developer with expertise in modern web technologies 
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=rattamnoon&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile Views" />
+---
+
+<div align="center">
+
+### 🔗 Let's Connect
+
+<p>
+  <a href="https://github.com/rattamnoon">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
 </p>
 
 <p align="center">
-  💻 Made with ❤️ by Rattamnoon
+  <samp>
+    Built with ❤️ by <b>@rattamnoon</b> | Powered by caffeine & code
+  </samp>
 </p>
+
+<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
+
+</div>
