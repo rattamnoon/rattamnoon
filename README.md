@@ -1,12 +1,27 @@
-# Hi there, I'm Rattamnoon 👋
+<div align="center">
+
+<!-- Animated Typing Header -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=30&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B+I'm+%40rattamnoon;Full+Stack+Developer;TypeScript+%E2%9D%A4%EF%B8%8F+Enthusiast;Cloud+Native+Engineer" alt="Typing SVG" />
+</a>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50">
+  <samp>
+    Building scalable web & mobile apps with modern tech stack.<br>
+    Passionate about clean code, performance, and developer experience.
+  </samp>
 </p>
 
-## 👨‍💻 About Me
+<!-- Status Badges -->
+<p align="center">
+  <img src="https://img.shields.io/badge/Focus-Full%20Stack-6366f1?style=flat-square&logo=target&logoColor=white" />
+  <img src="https://img.shields.io/badge/Location-Earth%20🌍-10b981?style=flat-square" />
+  <img src="https://img.shields.io/badge/Lang-TypeScript-3178c6?style=flat-square&logo=typescript&logoColor=white" />
+</p>
 
-I'm a passionate Full-Stack Developer with expertise in modern web technologies and cloud infrastructure. I love building scalable applications and exploring new technologies.
+</div>
+
+---
 
 ## 🛠️ Tech Stack
 
