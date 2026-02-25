@@ -157,9 +157,6 @@ Apollo Server         TS strict + codegen        NestJS + Turborepo
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=rattamnoon&show_icons=true&theme=radical&hide_border=true&count_private=true" height="165" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rattamnoon&layout=compact&theme=radical&hide_border=true&langs_count=8" height="165" />
-
 <img src="https://github-readme-streak-stats-umber-two.vercel.app?user=rattamnoon&theme=radical&hide_border=true" />
 
 </div>
@@ -167,12 +164,6 @@ Apollo Server         TS strict + codegen        NestJS + Turborepo
 ### 📈 Activity Graph
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=rattamnoon&theme=react-dark&hide_border=true&area=true" width="100%" />
-
-### 🏆 Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=rattamnoon&theme=radical&no-frame=true&no-bg=true&margin-w=4&column=7" />
-</div>
 
 ### 🐍 Contribution Snake
 
