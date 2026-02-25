@@ -183,6 +183,17 @@ Apollo Server         TS strict + codegen        NestJS + Turborepo
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=3" width="100%" />
 
+## 💬 Quote of the Day
+
+<div align="center">
+
+<!--STARTS_HERE_QUOTE_README-->
+<!--ENDS_HERE_QUOTE_README-->
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=3" width="100%" />
+
 ## 📫 Get in Touch
 
 <div align="center">
