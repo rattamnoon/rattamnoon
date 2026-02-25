@@ -1,5 +1,8 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=6366f1&height=200&section=header&text=rattamnoon&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20TypeScript%20Enthusiast&descAlignY=58&animation=fadeIn" width="100%" />
 
+<!--START_SECTION:update_image-->
+<!--END_SECTION:update_image-->
+
 <div align="center">
 
 <a href="https://git.io/typing-svg">

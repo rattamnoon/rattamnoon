@@ -1,0 +1,21 @@
+name: Update Image README
+
+on:
+  schedule:
+    - cron: "0 2 * * *"
+  workflow_dispatch:
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: siddharth2016/update-readme-image@main
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          IMG_ALT: Profile Image
+          HEIGHT: 200px
+          WIDTH: 200px
+          ALIGN: right
+          COMMIT_MESSAGE: update profile image
