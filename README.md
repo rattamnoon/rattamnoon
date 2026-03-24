@@ -191,7 +191,7 @@ Apollo Server         TS strict + codegen        NestJS + Turborepo
 <div align="center">
 
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝“The best way to get accurate information on Usenet is to post something wrong and wait for corrections.”— Matthew Austern   ❞</i>
+<i>❝“Where is the ‘any’ key?”— Homer Simpson, in response to the message, “Press any key”   ❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 
 </div>
