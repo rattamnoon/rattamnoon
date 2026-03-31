@@ -10,7 +10,16 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
+      - name: Check for valid images
+        id: check_images
+        run: |
+          if find .github/images -maxdepth 1 -type f \( -name "*.png" -o -name "*.jpg" -o -name "*.jpeg" -o -name "*.gif" -o -name "*.svg" \) | grep -q .; then
+            echo "has_images=true" >> "$GITHUB_OUTPUT"
+          else
+            echo "has_images=false" >> "$GITHUB_OUTPUT"
+          fi
       - uses: siddharth2016/update-readme-image@main
+        if: steps.check_images.outputs.has_images == 'true'
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
