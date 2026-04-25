@@ -191,7 +191,7 @@ Apollo Server         TS strict + codegen        NestJS + Turborepo
 <div align="center">
 
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝“Program testing can be a very effective way to show the presence of bugs, but is hopelessly inadequate for showing their absence.”— Edsger Dijkstra   ❞</i>
+<i>❝“The best way to learn data science is to do data science.”— Chanin Nantasenamat❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 
 </div>
