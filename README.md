@@ -191,7 +191,7 @@ Apollo Server         TS strict + codegen        NestJS + Turborepo
 <div align="center">
 
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝“The data speaks for itself. That’s the easiest measure of success.”— Caitlin Smallwood❞</i>
+<i>❝“If you have a procedure with ten parameters, you probably missed some.”— Alan Perlis  ❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 
 </div>
