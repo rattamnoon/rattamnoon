@@ -191,7 +191,7 @@ Apollo Server         TS strict + codegen        NestJS + Turborepo
 <div align="center">
 
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝“Before software should be reusable, it should be usable.”— Ralph Johnson  ❞</i>
+<i>❝“The world is one big data problem.”— Andrew McAfee❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 
 </div>
