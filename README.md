@@ -191,7 +191,7 @@ Apollo Server         TS strict + codegen        NestJS + Turborepo
 <div align="center">
 
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝“Low-level programming is good for the programmer’s soul.”— John Carmack   ❞</i>
+<i>❝“If you don’t handle [exceptions], we shut your application down.  That dramatically increases the reliability of the system.”— Anders Hejlsberg   ❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 
 </div>
