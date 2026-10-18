@@ -5,11 +5,14 @@ on:
     - cron: "0 2 * * *"
   workflow_dispatch:
 
+permissions:
+  contents: write
+
 jobs:
   update-readme:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v7
       - uses: siddharth2016/quote-readme@main
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
