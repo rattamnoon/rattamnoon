@@ -4,9 +4,9 @@
 <!--START_SECTION:update_image-->
 <!--END_SECTION:update_image-->
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=3FB950&vCenter=true&width=600&lines=%24+whoami;rattamnoon+%E2%80%94+Full+Stack+Developer;%24+cat+stack.txt;TypeScript+%C2%B7+NestJS+%C2%B7+Next.js+%C2%B7+AWS;%24+uptime+%E2%86%92+shipping+DB+%E2%86%92+UI+%E2%86%92+infra" alt="typing" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=3FB950&vCenter=true&center=true&width=600&lines=%24+whoami;rattamnoon+%E2%80%94+Full+Stack+Developer;%24+cat+stack.txt;TypeScript+%C2%B7+NestJS+%C2%B7+Next.js+%C2%B7+AWS;%24+uptime+%E2%86%92+shipping+DB+%E2%86%92+UI+%E2%86%92+infra" alt="typing" /></a>
 
-<img src="https://komarev.com/ghpvc/?username=rattamnoon&style=flat-square&color=3fb950&label=Profile+Views" />
+<img src="https://komarev.com/ghpvc/?username=rattamnoon&label=Profile%20Views&color=3fb950&style=flat-square" />
 </div>
 
 <pre>
@@ -27,12 +27,11 @@
   <img src="./profile/streak.svg" height="165" />
 </div>
 
-<pre>
-<b>$ fortune</b>
+<p><code>$ fortune</code></p>
+
 <!--STARTS_HERE_QUOTE_README-->
 <i>❝“It’s OK to figure out murder mysteries, but you shouldn’t need to figure out code.  You should be able to read it.”— Steve McConnell   ❞</i>
 <!--ENDS_HERE_QUOTE_README-->
-</pre>
 
 <div align="center">
 
