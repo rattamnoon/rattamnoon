@@ -6,7 +6,7 @@
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=3FB950&vCenter=true&center=true&width=600&lines=%24+whoami;rattamnoon+%E2%80%94+Full+Stack+Developer;%24+cat+stack.txt;TypeScript+%C2%B7+NestJS+%C2%B7+Next.js+%C2%B7+AWS;%24+uptime+%E2%86%92+shipping+DB+%E2%86%92+UI+%E2%86%92+infra" alt="typing" /></a>
 
-<img src="https://komarev.com/ghpvc/?username=rattamnoon&label=Profile%20Views&color=3fb950&style=flat-square" />
+<a href="https://hits.sh/github.com/rattamnoon/"><img alt="Profile Views" src="https://hits.sh/github.com/rattamnoon.svg?style=flat-square&label=Profile%20Views&color=3fb950&labelColor=161b22" /></a>
 </div>
 
 <pre>
